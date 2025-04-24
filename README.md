@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+The Simple Chat App is a real-time messaging application built using Flutter and Firebase. It allows users to sign up, log in, and exchange messages instantly with others. The app uses Firebase Authentication for secure user login and Cloud Firestore to store and sync messages in real time across devices.
 
 ## Getting Started
 
